@@ -1,0 +1,16 @@
+product_id,product_name,category,supplier
+1,Смартфон Samsung Galaxy A54,Электроника,Samsung
+2,Ноутбук Lenovo IdeaPad 3,Электроника,Lenovo
+3,Наушники Sony WH-1000XM5,Электроника,Sony
+4,Куртка зимняя Adidas,Одежда,Adidas
+5,Кроссовки Nike Air Max,Одежда,Nike
+6,Джинсы Levi's 501,Одежда,Levi's
+7,Молоко Простоквашино 1л,Продукты,Данон
+8,Хлеб пшеничный нарезной,Продукты,Коломенский
+9,Кофе Jacobs Monarch 250г,Продукты,Jacobs
+10,Стиральный порошок Tide 3кг,Бытовая химия,P&G
+11,Шампунь Head&Shoulders 400мл,Бытовая химия,P&G
+12,Планшет Apple iPad Air,Электроника,Apple
+13,Футболка базовая Uniqlo,Одежда,Uniqlo
+14,Сок Rich яблоко 1л,Продукты,Мултон
+15,Чай Lipton Yellow Label 100п,Продукты,Unilever
